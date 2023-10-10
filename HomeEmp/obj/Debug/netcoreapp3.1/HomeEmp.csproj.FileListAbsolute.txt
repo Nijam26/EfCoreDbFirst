@@ -1,0 +1,477 @@
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\appsettings.json
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\HomeEmp.exe
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\HomeEmp.deps.json
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\HomeEmp.runtimeconfig.json
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\HomeEmp.runtimeconfig.dev.json
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\HomeEmp.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\HomeEmp.pdb
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\HomeEmp.Views.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\HomeEmp.Views.pdb
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\obj\Debug\netcoreapp3.1\HomeEmp.csproj.AssemblyReference.cache
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\obj\Debug\netcoreapp3.1\HomeEmp.GeneratedMSBuildEditorConfig.editorconfig
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\obj\Debug\netcoreapp3.1\HomeEmp.AssemblyInfoInputs.cache
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\obj\Debug\netcoreapp3.1\HomeEmp.AssemblyInfo.cs
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\obj\Debug\netcoreapp3.1\HomeEmp.csproj.CoreCompileInputs.cache
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\obj\Debug\netcoreapp3.1\HomeEmp.MvcApplicationPartsAssemblyInfo.cache
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\obj\Debug\netcoreapp3.1\HomeEmp.RazorAssemblyInfo.cache
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\obj\Debug\netcoreapp3.1\HomeEmp.RazorAssemblyInfo.cs
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\obj\Debug\netcoreapp3.1\staticwebassets\HomeEmp.StaticWebAssets.Manifest.cache
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\obj\Debug\netcoreapp3.1\staticwebassets\HomeEmp.StaticWebAssets.Pack.cache
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.HomeEmp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.HomeEmp.props
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.HomeEmp.props
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.HomeEmp.props
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\obj\Debug\netcoreapp3.1\HomeEmp.TagHelpers.input.cache
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\obj\Debug\netcoreapp3.1\HomeEmp.TagHelpers.output.cache
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\obj\Debug\netcoreapp3.1\HomeEmp.RazorCoreGenerate.cache
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\obj\Debug\netcoreapp3.1\HomeEmp.RazorTargetAssemblyInfo.cache
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\obj\Debug\netcoreapp3.1\HomeEmp.RazorTargetAssemblyInfo.cs
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\obj\Debug\netcoreapp3.1\HomeEmp.Views.pdb
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\obj\Debug\netcoreapp3.1\HomeEmp.csproj.CopyComplete
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\obj\Debug\netcoreapp3.1\HomeEmp.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\obj\Debug\netcoreapp3.1\HomeEmp.pdb
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\obj\Debug\netcoreapp3.1\HomeEmp.genruntimeconfig.cache
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\obj\Debug\netcoreapp3.1\Razor\Views\Emp\Index.cshtml.g.cs
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\obj\Debug\netcoreapp3.1\Razor\Views\Emp\Create.cshtml.g.cs
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\obj\Debug\netcoreapp3.1\Razor\Views\Emp\Edit.cshtml.g.cs
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\obj\Debug\netcoreapp3.1\Razor\Views\Emp\Details.cshtml.g.cs
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\obj\Debug\netcoreapp3.1\Razor\Views\Emp\Delete.cshtml.g.cs
+D:\WEB_API\HOME TEST\HomeEmp\HomeEmp\obj\Debug\netcoreapp3.1\Razor\Views\Emp\EmployeeStats.cshtml.g.cs
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\HomeEmp.exe
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\HomeEmp.deps.json
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\HomeEmp.runtimeconfig.json
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\HomeEmp.runtimeconfig.dev.json
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\HomeEmp.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\HomeEmp.pdb
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\HomeEmp.Views.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\HomeEmp.Views.pdb
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\obj\Debug\netcoreapp3.1\HomeEmp.csproj.AssemblyReference.cache
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\obj\Debug\netcoreapp3.1\HomeEmp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\obj\Debug\netcoreapp3.1\HomeEmp.AssemblyInfoInputs.cache
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\obj\Debug\netcoreapp3.1\HomeEmp.AssemblyInfo.cs
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\obj\Debug\netcoreapp3.1\HomeEmp.csproj.CoreCompileInputs.cache
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\obj\Debug\netcoreapp3.1\HomeEmp.MvcApplicationPartsAssemblyInfo.cache
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\obj\Debug\netcoreapp3.1\HomeEmp.RazorAssemblyInfo.cache
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\obj\Debug\netcoreapp3.1\HomeEmp.RazorAssemblyInfo.cs
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\obj\Debug\netcoreapp3.1\staticwebassets\HomeEmp.StaticWebAssets.Manifest.cache
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\obj\Debug\netcoreapp3.1\staticwebassets\HomeEmp.StaticWebAssets.Pack.cache
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.HomeEmp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.HomeEmp.props
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.HomeEmp.props
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.HomeEmp.props
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\obj\Debug\netcoreapp3.1\HomeEmp.TagHelpers.input.cache
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\obj\Debug\netcoreapp3.1\HomeEmp.TagHelpers.output.cache
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\obj\Debug\netcoreapp3.1\HomeEmp.RazorCoreGenerate.cache
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\obj\Debug\netcoreapp3.1\Razor\Views\Emp\Create.cshtml.g.cs
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\obj\Debug\netcoreapp3.1\Razor\Views\Emp\Delete.cshtml.g.cs
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\obj\Debug\netcoreapp3.1\Razor\Views\Emp\Details.cshtml.g.cs
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\obj\Debug\netcoreapp3.1\Razor\Views\Emp\Edit.cshtml.g.cs
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\obj\Debug\netcoreapp3.1\Razor\Views\Emp\EmployeeStats.cshtml.g.cs
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\obj\Debug\netcoreapp3.1\Razor\Views\Emp\Index.cshtml.g.cs
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\obj\Debug\netcoreapp3.1\HomeEmp.RazorTargetAssemblyInfo.cache
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\obj\Debug\netcoreapp3.1\HomeEmp.RazorTargetAssemblyInfo.cs
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\obj\Debug\netcoreapp3.1\HomeEmp.Views.pdb
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\obj\Debug\netcoreapp3.1\HomeEmp.csproj.CopyComplete
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\obj\Debug\netcoreapp3.1\HomeEmp.dll
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\obj\Debug\netcoreapp3.1\HomeEmp.pdb
+D:\Home_Workout\WEB_API\Monthly exam_08\HomeEmp\HomeEmp\obj\Debug\netcoreapp3.1\HomeEmp.genruntimeconfig.cache
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\appsettings.json
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\HomeEmp.exe
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\HomeEmp.deps.json
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\HomeEmp.runtimeconfig.json
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\HomeEmp.runtimeconfig.dev.json
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\HomeEmp.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\HomeEmp.pdb
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\HomeEmp.Views.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\HomeEmp.Views.pdb
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\obj\Debug\netcoreapp3.1\HomeEmp.csproj.AssemblyReference.cache
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\obj\Debug\netcoreapp3.1\HomeEmp.GeneratedMSBuildEditorConfig.editorconfig
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\obj\Debug\netcoreapp3.1\HomeEmp.AssemblyInfoInputs.cache
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\obj\Debug\netcoreapp3.1\HomeEmp.AssemblyInfo.cs
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\obj\Debug\netcoreapp3.1\HomeEmp.csproj.CoreCompileInputs.cache
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\obj\Debug\netcoreapp3.1\HomeEmp.MvcApplicationPartsAssemblyInfo.cache
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\obj\Debug\netcoreapp3.1\HomeEmp.RazorAssemblyInfo.cache
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\obj\Debug\netcoreapp3.1\HomeEmp.RazorAssemblyInfo.cs
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\obj\Debug\netcoreapp3.1\staticwebassets\HomeEmp.StaticWebAssets.Manifest.cache
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\obj\Debug\netcoreapp3.1\staticwebassets\HomeEmp.StaticWebAssets.Pack.cache
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.HomeEmp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.HomeEmp.props
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.HomeEmp.props
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.HomeEmp.props
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\obj\Debug\netcoreapp3.1\HomeEmp.TagHelpers.input.cache
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\obj\Debug\netcoreapp3.1\HomeEmp.TagHelpers.output.cache
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\obj\Debug\netcoreapp3.1\HomeEmp.RazorCoreGenerate.cache
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\obj\Debug\netcoreapp3.1\Razor\Views\Emp\Create.cshtml.g.cs
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\obj\Debug\netcoreapp3.1\Razor\Views\Emp\Delete.cshtml.g.cs
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\obj\Debug\netcoreapp3.1\Razor\Views\Emp\Details.cshtml.g.cs
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\obj\Debug\netcoreapp3.1\Razor\Views\Emp\Edit.cshtml.g.cs
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\obj\Debug\netcoreapp3.1\Razor\Views\Emp\EmployeeStats.cshtml.g.cs
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\obj\Debug\netcoreapp3.1\Razor\Views\Emp\Index.cshtml.g.cs
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\obj\Debug\netcoreapp3.1\HomeEmp.RazorTargetAssemblyInfo.cache
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\obj\Debug\netcoreapp3.1\HomeEmp.RazorTargetAssemblyInfo.cs
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\obj\Debug\netcoreapp3.1\HomeEmp.Views.pdb
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\obj\Debug\netcoreapp3.1\HomeEmp.csproj.CopyComplete
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\obj\Debug\netcoreapp3.1\HomeEmp.dll
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\obj\Debug\netcoreapp3.1\HomeEmp.pdb
+D:\My uploaded Plan For GIT\8. EfCoreDbFirst\HomeEmp\obj\Debug\netcoreapp3.1\HomeEmp.genruntimeconfig.cache
